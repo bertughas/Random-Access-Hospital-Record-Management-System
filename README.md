@@ -29,11 +29,3 @@ To get started with this project, clone the repository to your local machine:
 git clone https://github.com/your-username/hospital-record-management.git
 
 Compile the main.c file and run the executable. Make sure to have a C compiler installed on your system.
-
-Contributing:
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
-
-License:
-
-This project is licensed under the MIT License - see the LICENSE file for details.
